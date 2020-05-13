@@ -24,7 +24,7 @@
 		EC57175E246C68F2006ECBBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC571761246C68F2006ECBBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC571763246C68F2006ECBBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EC57176A246C692F006ECBBA /* lesson_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = lesson_1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EC57176A246C692F006ECBBA /* 1l_Kadyrov_Ilya.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1l_Kadyrov_Ilya.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +72,7 @@
 		EC571769246C68F8006ECBBA /* Lessons */ = {
 			isa = PBXGroup;
 			children = (
-				EC57176A246C692F006ECBBA /* lesson_1.playground */,
+				EC57176A246C692F006ECBBA /* 1l_Kadyrov_Ilya.playground */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
