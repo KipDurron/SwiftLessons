@@ -25,6 +25,7 @@
 		EC571761246C68F2006ECBBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC571763246C68F2006ECBBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EC57176A246C692F006ECBBA /* 1l_Kadyrov_Ilya.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1l_Kadyrov_Ilya.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EC57176C246DB40B006ECBBA /* cw_2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = cw_2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		EC571754246C68F0006ECBBA /* SwiftLessons */ = {
 			isa = PBXGroup;
 			children = (
+				EC57176B246DB3EC006ECBBA /* ClassWorks */,
 				EC571769246C68F8006ECBBA /* Lessons */,
 				EC571755246C68F0006ECBBA /* AppDelegate.swift */,
 				EC571757246C68F0006ECBBA /* SceneDelegate.swift */,
@@ -75,6 +77,14 @@
 				EC57176A246C692F006ECBBA /* 1l_Kadyrov_Ilya.playground */,
 			);
 			path = Lessons;
+			sourceTree = "<group>";
+		};
+		EC57176B246DB3EC006ECBBA /* ClassWorks */ = {
+			isa = PBXGroup;
+			children = (
+				EC57176C246DB40B006ECBBA /* cw_2.playground */,
+			);
+			path = ClassWorks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
