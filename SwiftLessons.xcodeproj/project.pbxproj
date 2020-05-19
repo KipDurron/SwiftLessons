@@ -26,6 +26,7 @@
 		EC571763246C68F2006ECBBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EC57176A246C692F006ECBBA /* 1l_Kadyrov_Ilya.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1l_Kadyrov_Ilya.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EC57176C246DB40B006ECBBA /* cw_2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = cw_2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EC5F290F24747115004B4BAA /* 3lKadyrov_Ilya.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3lKadyrov_Ilya.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		ECB5A1C7247014850079FFB2 /* 2lKadyrov_Ilya.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2lKadyrov_Ilya.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -77,6 +78,7 @@
 			children = (
 				EC57176A246C692F006ECBBA /* 1l_Kadyrov_Ilya.playground */,
 				ECB5A1C7247014850079FFB2 /* 2lKadyrov_Ilya.playground */,
+				EC5F290F24747115004B4BAA /* 3lKadyrov_Ilya.playground */,
 			);
 			path = HomeWorks;
 			sourceTree = "<group>";
