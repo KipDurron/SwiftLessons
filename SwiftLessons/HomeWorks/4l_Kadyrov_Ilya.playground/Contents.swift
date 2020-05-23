@@ -15,7 +15,7 @@ class Car {
         
     }
     func getDesc() -> String {
-        return "brand = \(self.brand), year = \(self.year), isRunEngine = \(self.isRunEngine), isOpenWindow = \(self.isOpenWindow)"
+        return "brand = \(self.brand), year = \(self.year), isRunEngine = \(self.isRunEngine), isOpenWindow = \(self.isOpenWindow), "
     }
 }
 class TrunkCar: Car {
@@ -78,13 +78,13 @@ var trunkCar1 = TrunkCar(brand: "Toyota", year: 20, volumeTrunk: 1000.0)
 var trunkCar2 = TrunkCar(brand: "Lada", year: 12, volumeTrunk: 5000.0)
 sportCar1.changeAction(actionWithCar: .engine(start: true))
 sportCar2.changeAction(actionWithCar: .spoiler(open: true))
-trunkCar1.changeAction(actionWithCar: .trunk(load: false))
+trunkCar1.changeAction(actionWithCar: .trunk(load: true))
 trunkCar2.changeAction(actionWithCar: .windows(open: true))
 var listCars:[Car] = []
 listCars.append(sportCar1)
 listCars.append(sportCar2)
 listCars.append(trunkCar1)
-listCars.append(trunkCar1)
+listCars.append(trunkCar2)
 for car in listCars {
     print(car.getDesc())
 }
